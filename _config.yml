@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Paddy Fox"
-  avatar           : "skiing.png"
+  avatar           : "files/skiing.png"
   bio              : "Senior Scientist, Theoretical Physics"
   location         : "Batavia, IL"
   employer         : "Fermilab"
