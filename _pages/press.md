@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-<a href="https://phys.org/news/2020-07-dim-sources-galactic-center-excess.html">GCE</a>
+<a href="https://phys.org/news/2020-07-dim-sources-galactic-center-excess.html" target="_blank">GCE</a>
 
 <a href="https://astronomy.com/magazine/ask-astro/2012/01/collisions-happen">Astronomy Magazine</a>
 
