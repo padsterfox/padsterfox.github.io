@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-Press
-======
 
 https://phys.org/news/2020-07-dim-sources-galactic-center-excess.html
 
