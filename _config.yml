@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Paddy Fox"
-  avatar           : "files/skiing.png"
+  avatar           : "skiing.png"
   bio              : "Senior Scientist, Theoretical Physics"
   location         : "Batavia, IL"
   employer         : "Fermilab"
-  INSPIRE          : "https://inspirebeta.net/authors/1009609?ui-citation-summary=true"
-  pubmed           : ""
+  inspire          : "http://inspirehep.net/author/profile/P.J.Fox.1"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=GvNQ548AAAAJ&hl=en&oi=sra"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
