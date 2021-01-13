@@ -8,9 +8,9 @@ author_profile: true
 {% include base_path %}
 
 
-https://phys.org/news/2020-07-dim-sources-galactic-center-excess.html
+<a href="https://phys.org/news/2020-07-dim-sources-galactic-center-excess.html">GCE</a>
 
-https://astronomy.com/magazine/ask-astro/2012/01/collisions-happen
+<a href="https://astronomy.com/magazine/ask-astro/2012/01/collisions-happen">Astronomy Magazine</a>
 
 https://astronomy.com/magazine/ask-astro/2012/03/important-physics
 
