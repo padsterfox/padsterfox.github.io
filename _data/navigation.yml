@@ -14,3 +14,6 @@ main:
     
   - title: "Useful links"
     url: /resources/
+    
+  - title: "Test"
+    url: /test/
