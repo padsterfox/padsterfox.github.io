@@ -115,7 +115,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        : "nn"
+  wikipedia        : #""
 
 
 # Reading Files
