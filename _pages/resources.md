@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Press"
+title: "Useful links"
 permalink: /resources/
 author_profile: true
 ---
