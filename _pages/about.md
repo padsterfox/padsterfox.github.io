@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a theoretical particle physicist working at the Fermi National Accelerator Laboratory (<a href="https://www.fnal.gov" target="_blank">Fermilab</a>).  My research is focussed on what lies beyond the Standard Model of particle physics.  
+I am a theoretical particle physicist working at the Fermi National Accelerator Laboratory (<a href="https://www.fnal.gov" target="_blank">Fermilab</a>).  My research is focussed on what lies beyond the Standard Model of particle physics.  I am the Deputy Head of the Theory Division.
