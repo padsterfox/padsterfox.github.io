@@ -8,7 +8,7 @@ author_profile: true
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Wilson Hall"
 ---
-<a href ="https://inspirehep.net/authors/1009609" My papers </a>
+<a href ="https://inspirehep.net/authors/1009609"> My papers </a>
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
