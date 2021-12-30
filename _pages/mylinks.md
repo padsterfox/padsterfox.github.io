@@ -8,4 +8,5 @@ author_profile: true
 {% include base_path %}
 
 Here we go
-(/images/GiantsCauseway.JPG)
+<img src="/images/GiantsCauseway.JPG" alt="Giant's Causeway, Norn Iron">
+
