@@ -2,6 +2,21 @@
 layout: default
 ---
 
+<html>
+    <head>
+    <style>
+    body {
+      background-image: url('{{ site.baseurl }}/images/GiantsCauseway.JPG');
+      background-repeat: no-repeat;
+      background-attachment: fixed;  
+      background-size: cover; 
+    }
+    </style>
+    </head>
+
+</html>
+
+
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}
 {% endif %}
