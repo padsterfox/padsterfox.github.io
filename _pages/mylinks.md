@@ -3,8 +3,7 @@ layout: archive
 title: "Useful Links"
 permalink: /mylinks/
 author_profile: true
-header: /images/GiantsCauseway.JPG
-background-image: url('/images/GiantsCauseway.JPG')
+header_image: /images/GiantsCauseway.JPG
 ---
 
 {% include base_path %}
