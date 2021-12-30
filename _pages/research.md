@@ -3,10 +3,12 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
-redirect_from: 
-  - /publications/
-  - /publications.html
+  - header:
+  overlay_image: BB1.JPG
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption: "Wilson Hall"
 ---
+<a href ="https://inspirehep.net/authors/1009609" My papers </a>
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
