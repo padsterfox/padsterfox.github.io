@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Patrick J. Fox"
+title                    : "Patrick Fox"
 title_separator          : "-"
-name                     : &name "Patrick J. Fox"
+name                     : &name "Patrick Fox"
 description              : &description "Senior Scientist, Theoretical Physics Department, Fermi National Accelerator Laboratory"
 url                      : https://padsterfox.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Paddy Fox"
   avatar           : "skiing2.png"
-  bio              : "Senior Scientist, Theoretical Physics"
+  bio              : "Theoretical Physicist"
   employer         : "Fermilab"
   inspire          : "http://inspirehep.net/author/profile/P.J.Fox.1"
   pubmed           : 
