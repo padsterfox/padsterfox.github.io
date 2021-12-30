@@ -1,18 +1,18 @@
 # main links links
 main:
-  - title: "Research"
+- title: "About"
+    url: /about/
+    
+  - title: "Physics"
     url: /research/
 
-  - title: "Talks"
+  - title: "Life"
     url: /talks/    
-    
-  - title: "CV"
-    url: /cv/
    
   - title: "Press"
     url: /press/
     
-  - title: "Useful links"
+  - title: "Links"
     url: /mylinks/
     
  
