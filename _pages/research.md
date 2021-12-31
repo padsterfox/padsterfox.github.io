@@ -19,7 +19,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 
 I have lectured at various summer schools on various topics e.g.
 <ul>
-<li>Supersymmetry [TASI09]({{site.baseurl}}/files/TASI2009.pdf)<\li>
+<li>Supersymmetry [TASI09]({{site.baseurl}}{% link _files/TASI2009.pdf %})<\li>
 <li>WIMPs [TASI2018]({{site.baseurl}}/files/TASI2018.pdf)</li>
 <li>Dark Matter [TRISEP2017]({{site.baseurl}}/files/DM_Intro.pdf)</li>
 <li>DM@Colliders [SLAC Summer Institute Lec. 1]({{site.baseurl}}/files/SSI_Fox_Lecture1.pdf), [Lec. 2]({{site.baseurl}}/files/SSI_Fox_Lecture2.pdf)</li>
