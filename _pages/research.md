@@ -3,7 +3,7 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
-  - header:
+header:
   overlay_image: BB1.JPG
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Wilson Hall"
