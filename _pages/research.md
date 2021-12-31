@@ -16,14 +16,15 @@ All of my publications can be found on my <a href ="https://inspirehep.net/autho
 {% if author.googlescholar %}
 You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
-[TASI09]({{site.baseurl}}{% link /files/TASI2009.pdf %})
+
 
 I have lectured at various summer schools on various topics e.g.
 <ul>
 <li>Supersymmetry <a href="{{site.baseurl}}/files/TASI2009.pdf">TASI09</a></li>
-<li>WIMPs [TASI2018]({{site.baseurl}}{% link /files/TASI2018.pdf %})</li>
-<li>Dark Matter [TRISEP2017]({{site.baseurl}}{% link /files/DM_Intro.pdf %})</li>
-<li>DM@Colliders [SLAC Summer Institute Lec. 1]({{site.baseurl}}{% link /files/SSI_Fox_Lecture1.pdf %}), [Lec. 2]({{site.baseurl}}{% link /files/SSI_Fox_Lecture2.pdf %})</li>
+<li>WIMPs <a href="{{site.baseurl}}/files/TASI2018.pdf">TASI2018</a></li>
+<li>Dark Matter <a href="{{site.baseurl}}/files/DM_Intro.pdf">TRISEP2017</a></li>
+<li>DM@Colliders <a href="{{site.baseurl}}/files/SSI_Fox_Lecture1.pdf">SLAC Summer Institute Lec. 1</a>, <a href="{{site.baseurl}}/files/SSI_Fox_Lecture2.pdf">Lec. 2</a>
+</li>
 </ul>
 
 

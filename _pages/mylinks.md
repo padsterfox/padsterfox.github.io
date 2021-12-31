@@ -18,7 +18,7 @@ gallery:
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
 
-<h1>Some links I find useful</h1>
+<h2>Some links I find useful</h2>
 <ul>
 <li><a href="https://arxiv.org">arXiv</a>
 <a href="https://inspirehep.net">iNSPIRE</a>

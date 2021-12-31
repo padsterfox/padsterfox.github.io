@@ -12,7 +12,7 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Giant's Causeway, Norn Iron"
 intro:
-  - excerpt: 'Interested in what lies beyond the Standard Model and the next bend in the trail.'
+  - excerpt: 'Interested in what lies beyond the Standard Model, and the next bend in the trail.'
 gallery:
   - image_path: MC.JPG
     image_caption: "Dangerous Vehicle"
