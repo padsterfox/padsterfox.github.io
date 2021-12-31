@@ -18,6 +18,10 @@ gallery:
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
 
-Some links I find useful
-<a href="https://arxiv.org">arXiv</a>
+<h1>Some links I find useful</h1>
+<ul>
+<li><a href="https://arxiv.org">arXiv</a>
 <a href="https://inspirehep.net">iNSPIRE</a>
+<a href="https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20P.J.Fox.1&ui-citation-summary=true">My papers</a>
+</li>
+<\/ul>
