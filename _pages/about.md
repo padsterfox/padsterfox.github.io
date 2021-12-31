@@ -1,28 +1,21 @@
 ---
 layout: splash
 permalink: /
-title: ""
+title: "Patrick Fox"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+header:
+  overlay_image: GiantsCauseway.JPG
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption: "Giant's Causeway, Norn Iron"
+intro:
+  - except: "Stuff about me"
 ---
 
-<html>
-    <head>
-    <style>
-    body {
-      background-image: url('{{ site.baseurl }}/images/GiantsCauseway.JPG');
-      background-repeat: no-repeat;
-      background-attachment: fixed;
-      background-size: cover;
-      background-filter: 0.5;
-    }
-    </style>
-    </head>
-
-</html>
+{% include feature_row id="intro" type="center" %}
 
 
 
