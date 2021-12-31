@@ -15,7 +15,7 @@ gallery:
 ---
 
 {% include base_path %}
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+
 
 
 <h2>Some links I find useful</h2>
