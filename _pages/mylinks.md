@@ -7,10 +7,11 @@ header:
   overlay_image: GiantsCauseway.JPG
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Giant's Causeway, Norn Iron"
+style="column-count: 2"
 ---
 
 {% include base_path %}
 
-Here we go
-<img src="/images/GiantsCauseway.JPG" alt="Giant's Causeway, Norn Iron">
-
+Some links I find useful
+<a href="https://arxiv.org">arXiv</a>
+<a href="https://inspirehep.net">iNSPIRE</a>
