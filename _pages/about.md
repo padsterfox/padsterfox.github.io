@@ -14,13 +14,13 @@ header:
 intro:
   - excerpt: 'Interested in what lies beyond the Standard Model, and the next bend in the trail.'
 gallery:
-  - image_path: FoxPoison.JPG
-    title: "Dangerous Drink" 
   - image_path: MC.JPG
     title: "Dangerous Vehicle"
+  - image_path: FoxPoison.JPG
+    title: "Dangerous Drink" 
   - image_path: Ski1.jpg
     title: "Dangerous Hobby"
-  - image_path: NoseEyes.jpg
+  - image_path: NoseEyes.JPG
     title: "Dangerous Mind"
 ---
 
