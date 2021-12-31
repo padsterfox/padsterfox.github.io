@@ -30,19 +30,28 @@ Astronomy Magazine: <a href="https://astronomy.com/magazine/ask-astro/2012/01/co
 <li>
 I regularly <a href="https://saturdaymorningphysics.fnal.gov/pictures-from-patrick-fox-lecture-jan-21-2017/">lecture</a> at <a href="https://saturdaymorningphysics.fnal.gov">Saturday Morning Physics</a>
 </li>
-
-https://www.voanews.com/silicon-valley-technology/fermilab-scientists-testing-faster-light-neutrino-claims
-
-https://www.symmetrymagazine.org/breaking/2010/06/04/could-dzero-result-point-to-multiple-higgses
-
-https://www.imdb.com/title/tt2759832/
-
-Through the worm hole season 1 "What are we really made of"
-
-https://www.quantamagazine.org/why-do-matter-particles-come-in-threes-a-physics-titan-weighs-in-20200330/
-
-https://news.fnal.gov/2015/06/patrick-fox-wins-humboldt-fellowship-for-experienced-researchers/
-
-https://www.symmetrymagazine.org/article/casting-a-wide-net
-
+<li>
+Voice of America on faster-than-light neutrinos claims (they weren't!)
+<a href="https://www.voanews.com/a/fermilab-scientists-testing-faster-than-light-neutrino-claims-131391688/146380.html"(text)</a> <a href="https://www.voanews.com/a/175689.html">(video)</a>
+</li>
+<li>
+Symmetry Magazine on <a href="https://www.symmetrymagazine.org/breaking/2010/06/04/could-dzero-result-point-to-multiple-higgses">a D0 anomaly</a> and <a href="https://www.symmetrymagazine.org/article/casting-a-wide-net
+">how to search for new physics.</a>
+</li>
+<li>
+Quanta Magazine on Weinberg's followup to some of my <a href="https://www.quantamagazine.org/why-do-matter-particles-come-in-threes-a-physics-titan-weighs-in-20200330/">work</a> on fermion mass generation.
+</li>
 </ul>
+
+I have been involved in several <a href="https://www.imdb.com/title/tt2759832/">episodes</a> of Morgan Freeman's "Through the Wormhole", which considerably reduced my <a href="https://en.wikipedia.org/wiki/Erdős–Bacon_number">Bacon-Erdos number</a>.
+ 
+{% comment %}
+BE number is 8?
+Through the worm hole season 1 "What are we really made of"
+{% endcomment %}
+
+
+
+
+
+
