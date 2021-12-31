@@ -32,7 +32,7 @@ Before arriving at Fermilab I was a postdoc in <a href="https://www-theory.lbl.g
 <br>
 <br>
 
-{% include gallery caption=" " %}
+{% include gallery %}
 
 
 
