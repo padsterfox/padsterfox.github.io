@@ -14,7 +14,7 @@ Sometimes journalists are interested in my research.
 <ul>
 <li>
 I once appeared in the New York Times, in my pajamas, for science
-<a href="/files/NYT.pdf"><img src="/images/LHCPyjama.jpg"></a>
+<a href="{{site.baseurl}}/files/NYT.pdf"><img src="/images/LHCPyjama.jpg"></a>
 </li>
 <li>
 <a href="https://phys.org/news/2020-07-dim-sources-galactic-center-excess.html" target="_blank">GCE</a>
