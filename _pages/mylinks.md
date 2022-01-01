@@ -29,6 +29,6 @@ gallery:
 <li>The Theory Division <a href="https://docs.google.com/spreadsheets/d/1Eh_UQtjV5t3bM8fc2RSqj0mX4oNnDoks-amHxHd33xE/edit#gid=1011021177">"Storage of Knowledge"</a>
 </li>
 <li>
-News: <a href="https://www.theguardian.com/us"><img src="/images/guardian_logo.jpg"></a>, <a href="https://bbc.com"> <img src="/images/BBC.jpg"></a>
+News: <a href="https://www.theguardian.com"><img src="/images/guardian_logo.jpg"></a>,   <a href="https://bbc.com"> <img src="/images/BBC.jpg"></a>
 </li>
 </ul>
