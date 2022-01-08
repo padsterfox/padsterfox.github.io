@@ -20,8 +20,8 @@ gallery:
 
 <h2>Some links I find useful</h2>
 <ul>
-<li><a href="https://arxiv.org">arXiv</a>
-<a href="https://inspirehep.net">iNSPIRE</a>
+<li><a href="https://arxiv.org">arXiv</a>,
+<a href="https://inspirehep.net">iNSPIRE</a>,
 <a href="https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20P.J.Fox.1&ui-citation-summary=true">My papers</a>
 </li>
 <li><a href="http://pdg.lbl.gov">PDG</a></li>
