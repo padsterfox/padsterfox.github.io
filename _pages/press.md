@@ -17,7 +17,7 @@ I once appeared in the New York Times, in my pajamas, for science
 <a href="{{site.baseurl}}/files/NYT.pdf"><img src="/images/LHCPyjama.jpg"></a>
 </li>
 <li>
-<a href="https://phys.org/news/2020-07-dim-sources-galactic-center-excess.html" target="_blank">GCE</a>
+<a href="https://phys.org/news/2020-07-dim-sources-galactic-center-excess.html" target="_blank">The Galactic Centre Excess</a>
 </li>
 <li>
 Astronomy Magazine: <a href="https://astronomy.com/magazine/ask-astro/2012/01/collisions-happen">Matter-anti-matter collisions</a>, 
