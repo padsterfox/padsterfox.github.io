@@ -13,7 +13,7 @@ Sometimes journalists are interested in my research.
 
 <ul>
 <li>
-I once appeared in the New York Times, in my pajamas, for science
+I once appeared in the New York Times, in my pyjamas, for science
 <a href="{{site.baseurl}}/files/NYT.pdf"><img src="/images/LHCPyjama.jpg"></a>
 </li>
 <li>
