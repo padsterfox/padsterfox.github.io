@@ -16,7 +16,7 @@ gallery:
 
 {% include base_path %}
 
-
+ 
 
 <h2>Some links I find useful</h2>
 <ul>
