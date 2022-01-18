@@ -11,9 +11,9 @@ header:
 {% include base_path %}
 
 
-All of my publications can be found on my <a href ="https://inspirehep.net/authors/1009609" target="_self">iNSPIRE page</a>.
+All of my publications can be found on my <a href ="https://inspirehep.net/authors/1009609" target="_blank">iNSPIRE page</a>.
 {% if author.googlescholar %}
-You can also find my articles on <u><a href="{{author.googlescholar}}" target="_self">my Google Scholar profile</a>.</u>
+You can also find my articles on <u><a href="{{author.googlescholar}}" target="_blank">my Google Scholar profile</a>.</u>
 {% endif %}
 
 
