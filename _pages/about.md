@@ -1,4 +1,4 @@
-r---
+---
 layout: splash
 permalink: /
 title: "Patrick Fox"
